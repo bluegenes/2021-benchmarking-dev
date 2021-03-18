@@ -1,4 +1,4 @@
-site_name: gtdb-evolpaths
+site_name: GTDB Paths Dataset
 site_url: http://bluegenes.github.io/2021-benchmarking-dev
 repo_name: 2021-benchmarking-dev
 repo_url: https://github.com/bluegenes/2021-benchmarking-dev
@@ -14,17 +14,17 @@ theme:
   name: material
 
   # pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-  palette:
-    primary: 'blue'
-    accent: 'teal'
+  #palette:
+  #  primary: 'blue'
+  #  accent: 'teal'
   
   # fun logos! see https://material.io/icons/
   #icon:
   #  logo: material/dns
 
-  font:
-    text: 'Roboto'
-    code: 'Roboto Mono'
+  #font:
+  #  text: 'Roboto'
+  #  code: 'Roboto Mono'
 
 # give a title for each page
 nav:
