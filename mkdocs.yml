@@ -34,7 +34,6 @@ theme:
 plugins:
   - search
   - mkdocs-table-reader-plugin
-
 #theme:
 #  name: material
 
