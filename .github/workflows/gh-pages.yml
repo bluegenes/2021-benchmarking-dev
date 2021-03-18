@@ -18,8 +18,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CONFIG_FILE: mkdocs.yml
-      - run: 
-        - pip3 install mkdocs-table-reader-plugin
+#      - run: 
+#        - pip3 install mkdocs-table-reader-plugin
 
       #  - pip install mkdocs-material
       #- run: mkdocs gh-deploy --force --config-file ../..//mkdocs.yml --remote-branch main
+
+

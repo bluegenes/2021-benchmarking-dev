@@ -33,7 +33,7 @@ theme:
 # Plugins
 plugins:
   - search
-  - mkdocs-table-reader-plugin
+  #- mkdocs-table-reader-plugin
 #theme:
 #  name: material
 
