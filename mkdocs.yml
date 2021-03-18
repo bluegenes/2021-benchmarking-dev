@@ -1,0 +1,33 @@
+site_name: gtdb-evolpaths
+site_url: http://bluegenes.github.io/gtdb-evolpaths
+repo_name: dammit
+repo_url: https://github.com/bluegenes/2021-benchmarking-dev
+edit_uri: ""
+
+copyright: 'Copyright &copy; 2021 <a href="http://ivory.idyll.org/lab/">Lab for Data Intensive Biology</a> at UC Davis'
+
+# change directory names here
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+
+  # pretty colors! see https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+  palette:
+    primary: 'blue'
+    accent: 'teal'
+  
+  # fun logos! see https://material.io/icons/
+  icon:
+    logo: material/dns
+
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# give a title for each page
+nav:
+  - 'Home': 'index.md'
+  - "Taxonomy": 'taxonomy.md'
+  - "Lineages of Interest": 'lineages_of_interest.md'
