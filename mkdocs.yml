@@ -1,6 +1,6 @@
 site_name: gtdb-evolpaths
 site_url: http://bluegenes.github.io/2021-benchmarking-dev
-repo_name: dammit
+repo_name: 2021-benchmarking-dev
 repo_url: https://github.com/bluegenes/2021-benchmarking-dev
 edit_uri: ""
 
@@ -19,8 +19,8 @@ theme:
     accent: 'teal'
   
   # fun logos! see https://material.io/icons/
-  icon:
-    logo: material/dns
+  #icon:
+  #  logo: material/dns
 
   font:
     text: 'Roboto'
